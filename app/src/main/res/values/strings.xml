@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tough</string>
+    <string name="abs_workout">ABS EXERCISES</string>
+    <string name="arm_chest_workout"><![CDATA[ARMS & CHEST EXERCISES]]></string>
+    <string name="shoulder_back_workout"><![CDATA[SHOULDERS & BACK EXERCISES]]></string>
+    <string name="legs_workout">LEGS EXERCISES</string>
+    <string name="equipment">Equipment:</string>
+    <string-array name="equipment">
+        <item>Any equipment</item>
+        <item>Barbell</item>
+        <item>Cable</item>
+        <item>Dumbbell</item>
+        <item>Lever</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058775303802",
+    "firebase_url": "https://tough-d6852.firebaseio.com",
+    "project_id": "tough-d6852",
+    "storage_bucket": "tough-d6852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058775303802:android:c5b32e80b7b389ea349dc3",
+        "android_client_info": {
+          "package_name": "com.example.tough"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058775303802-m20f7db6l88bhc33cto590b78pbdgsj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tough",
+            "certificate_hash": "4bc7927a3b686a26355c68f45b47f0197c7765e4"
+          }
+        },
+        {
+          "client_id": "1058775303802-h845emik2rm3f25gs61mfa674b44edra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtV8Q-tfp7LExSLuliNQSGvMxFH28_4yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058775303802-h845emik2rm3f25gs61mfa674b44edra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

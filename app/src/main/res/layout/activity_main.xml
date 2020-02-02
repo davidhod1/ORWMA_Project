@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:background="#cccccc">
+
+
+    <Button
+        android:id="@+id/buttonChest"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/chest"
+        android:gravity="top"
+        android:text="@string/arm_chest_workout"
+        android:paddingTop="10dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="0dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+
+
+        >
+
+    </Button>
+
+    <Button
+        android:id="@+id/buttonAbs"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/abs"
+        android:gravity="top"
+        android:text="@string/abs_workout"
+        android:paddingTop="10dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="0dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+
+        >
+
+    </Button>
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/back"
+        android:gravity="top"
+        android:text="@string/shoulder_back_workout"
+        android:paddingTop="10dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="0dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+
+        >
+
+    </Button>
+    <Button
+        android:id="@+id/buttonLegs"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/legs"
+        android:gravity="top"
+        android:text="@string/legs_workout"
+        android:paddingTop="10dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="0dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+
+        >
+
+    </Button>
+
+
+
+
+</LinearLayout>
